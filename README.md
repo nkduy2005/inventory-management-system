@@ -19,7 +19,7 @@ View current inventory stock
 ## Installation
 - Download zip or clone project
 - composer install
-- cp .env.expamle .env
+- copy .env.example .env
 - php artisan key:generate
 - php artisan migrate
 - php artisan db:seed
