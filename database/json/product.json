@@ -1,0 +1,42 @@
+[
+    {
+        "name":"iPhone 14 128GB",
+        "skud":"IPH14-128",
+        "quantity":15
+    },
+    {
+        "name":"Samsung Galaxy S23",
+        "skud":"SAM-S23",
+        "quantity":12
+    },
+    {
+        "name":"MacBook Air M2",
+        "skud":"MAC-M2-13",
+        "quantity":8
+    },
+    {
+         "name":"AirPods Pro 2",
+        "skud":"APP-PRO2",
+        "quantity":15
+    },
+    {
+         "name":"iPad Gen 10",
+        "skud":"IPAD-G10",
+        "quantity":12
+    },
+    {
+         "name":"Dell XPS 13",
+        "skud":"DELL-XPS13",
+        "quantity":8
+    },
+    {
+         "name":"Logitech MX Master 3",
+        "skud":"LOG-MX3",
+        "quantity":22
+    },
+    {
+         "name":"Asus TUF Gaming F15",
+        "skud":"ASUS-TUF15",
+        "quantity":6
+    }
+]

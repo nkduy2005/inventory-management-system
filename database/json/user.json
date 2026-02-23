@@ -1,0 +1,20 @@
+[
+    {
+        "name":"admin",
+        "email":"admin@gmail.com",
+        "password":"admin@123456",
+        "role":"admin"
+    },
+    {
+         "name":"Nguyen Van A",
+        "email":"nva@gmail.com",
+        "password":"nva@123456",
+        "role":"staff"
+    },
+    {
+         "name":"Le Thi Binh",
+        "email":"ltbinh@gmail.com",
+        "password":"ltbinh@123456",
+        "role":"staff"
+    }
+]
